@@ -8,9 +8,12 @@ applications:
   - wget
   - go
   - ag 
-  - ctags
   - terraform
-  - aws_bash_completer
+  - lastpass-cli
+  - mysql
+  - vault
+  - dcos-cli
+
 
 # homebrew cask applications
 cask_applications:
@@ -19,12 +22,25 @@ cask_applications:
   - spotify
   - steam
   - visual-studio-code
+  - qq
+  - skype
+  - evernote
+  - championify
+  - spectacle
 
 downloads:
   keepass:
     name: KeePassX
     url: https://www.keepassx.org/releases/0.4.4/KeePassX-0.4.4.dmg
     dest: "{{general.local_home}}/Downloads/KeePassX-0.4.4.dmg"
+  git-bash-completion:
+    name: GitBashCompletion
+    url: https://github.com/git/git/blob/master/contrib/completion/git-completion.bash
+    dest: "{{general.local_home}}/.git-completion.bash"
+  solarized:
+    name: Solarized
+    url: http://ethanschoonover.com/solarized/files/solarized.zip
+    dest: "{{general.local_home}}/Downloads/solarized.zip"
    # zwift:
    #   name: Zwift
    #   url: http://cdn.zwift.com/app/ZwiftOSX.dmg
