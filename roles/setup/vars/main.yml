@@ -9,10 +9,13 @@ applications:
   - go
   - ag 
   - terraform
+  - terraform-inventory
   - lastpass-cli
   - mysql
   - vault
   - dcos-cli
+  - jq
+  - openssl
 
 
 # homebrew cask applications
