@@ -35,7 +35,7 @@ downloads:
     dest: "{{general.local_home}}/Downloads/KeePassX-0.4.4.dmg"
   git-bash-completion:
     name: GitBashCompletion
-    url: https://github.com/git/git/blob/master/contrib/completion/git-completion.bash
+    url: https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
     dest: "{{general.local_home}}/.git-completion.bash"
   solarized:
     name: Solarized
