@@ -15,8 +15,4 @@
   homebrew_tap:
     tap: "caskroom/cask"
 
-# - name: tap homebrew neovim/homebrew-neovim 
-#   homebrew_tap:
-#     tap: "neovim/homebrew-neovim"
-#     state: present
 
