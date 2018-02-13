@@ -17,6 +17,7 @@ applications:
   - jq
   - openssl
   - glide
+  - groovy
 
 
 # homebrew cask applications
