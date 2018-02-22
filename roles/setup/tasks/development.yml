@@ -6,3 +6,20 @@
     name: go
     state: latest
 
+# Go tools to install
+
+# github-release
+# go-bindata
+# go-outline
+# go-symbols
+# gocode
+# goconvey
+# godef
+# goimports
+# golint
+# gopkgs
+# gorename
+# goreturns
+# gotests
+# govendor
+# guru

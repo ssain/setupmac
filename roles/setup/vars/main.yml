@@ -18,6 +18,7 @@ applications:
   - openssl
   - glide
   - groovy
+  - csshx
 
 
 # homebrew cask applications
