@@ -33,6 +33,7 @@ cask_applications:
   - evernote
   - championify
   - spectacle
+  - java
 
 downloads:
   keepass:
