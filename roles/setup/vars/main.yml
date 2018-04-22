@@ -19,6 +19,8 @@ applications:
   - glide
   - groovy
   - csshx
+  - node
+  - tmux
 
 
 # homebrew cask applications
