@@ -21,6 +21,7 @@ applications:
   - csshx
   - node
   - tmux
+  - neovim
 
 
 # homebrew cask applications
