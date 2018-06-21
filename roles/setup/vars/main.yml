@@ -22,6 +22,7 @@ applications:
   - node
   - tmux
   - neovim
+  - watch
 
 
 # homebrew cask applications
@@ -37,6 +38,7 @@ cask_applications:
   - championify
   - spectacle
   - java
+  - oni
 
 downloads:
   keepass:
