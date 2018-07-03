@@ -23,6 +23,7 @@ applications:
   - tmux
   - neovim
   - watch
+  - awscli
 
 
 # homebrew cask applications
