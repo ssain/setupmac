@@ -40,6 +40,7 @@ cask_applications:
   - spectacle
   - java
   - oni
+  - google-chrome
 
 downloads:
   keepass:
