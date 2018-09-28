@@ -24,6 +24,9 @@ applications:
   - neovim
   - watch
   - awscli
+  - cockroach
+  - maven
+  - ant
 
 
 # homebrew cask applications
