@@ -44,6 +44,7 @@ cask_applications:
   - java
   - oni
   - google-chrome
+  - visualvm
 
 downloads:
   keepass:
