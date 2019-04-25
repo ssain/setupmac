@@ -27,6 +27,7 @@ applications:
   - cockroach
   - maven
   - ant
+  - lnav
 
 
 # homebrew cask applications
