@@ -28,6 +28,7 @@ applications:
   - maven
   - ant
   - lnav
+  - exercism
 
 
 # homebrew cask applications
