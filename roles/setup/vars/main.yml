@@ -46,7 +46,7 @@ cask_applications:
   - java
   - oni
   - google-chrome
-  - visualvm
+  - yourkit-java-profiler
 
 downloads:
   keepass:
